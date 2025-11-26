@@ -28,7 +28,7 @@ export default function Home() {
             </h2>
             <p className="text-sm sm:text-base lg:text-lg xl:text-xl text-center text-foreground/90 mb-6 sm:mb-8 lg:mb-12 max-w-4xl mx-auto px-4">
               Accu's slijten te vroeg, laden kan risicovol zijn en vervanging
-              zorgt voor hoge kosten en e-waste.
+              zorgt voor hoge kosten en e-waste...
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 lg:gap-8 max-w-6xl mx-auto">
